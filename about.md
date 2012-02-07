@@ -17,12 +17,10 @@ and I've been using only Linux in the last four years (now ArchLinux).
 Me around the web
 =================
 
-- [github](http://github.com/OriginalCopy)
-- stack overflow
-- google plus
-- facebook
-- twitter
-- pecl
+- [github](http://github.com/flavius)
+- [stack overflow](http://stackoverflow.com/users/88054/flavius)
+- [google plus](https://plus.google.com/102152258822479005418/about)
+- [pecl](http://pecl.php.net/user/flavius)
 
 About this Website
 ==================
@@ -33,20 +31,20 @@ Projects
 ========
 
 You can see my projects on my github profile. There's also
-a repo where I keep small patches which have been accepted
+[a repo](https://github.com/flavius/patches-and-tools)
+where I keep small patches which have been accepted
 to random projects I am not contributing regularly to.
 
 A list of projects I care about, where I'm either a lead
-or I'm deeply involved in:
+or I'm actively involved in:
 
-- phpmeta
-- php course (in Romanian)
+- [phpmeta](https://github.com/flavius/phpmeta)
+- [php online course](https://github.com/flavius/yap-phpro-book) (in Romanian)
 
 
 Contact
 =======
 
-For PHP-related concerns, contact me at <i>flavius (at) php (dot) net</i>,
-for other things I am available at <i>flavius (dot) as (at) gmail (dot) com</i>
-and on <b>freenode</b> with the nickname <i>flavius</i>.
+Feel free to contact me at <i>flavius (dot) as (at) gmail (dot) com</i>
+or on <b>freenode</b> with the nickname <i>flavius</i>.
 
