@@ -45,6 +45,6 @@ or I'm actively involved in:
 Contact
 =======
 
-Feel free to contact me at <i>flavius (dot) as (at) gmail (dot) com</i>
+Feel free to contact me at <i>flavius.as+homepage@gmail.com</i>
 or on <b>freenode</b> with the nickname <i>flavius</i>.
 
